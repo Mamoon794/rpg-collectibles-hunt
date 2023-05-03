@@ -1,7 +1,7 @@
 # rpg-collectibles-hunt
 This is a RPG game where the player has to explore different rooms and collect any 
 collectibles to win the game. They will have hints throughout the game to help them
-with their journey.
+with their journey. Enjoy the game.
 
 # Running the Program
 1. Clone the repository, or zip and extract it.
